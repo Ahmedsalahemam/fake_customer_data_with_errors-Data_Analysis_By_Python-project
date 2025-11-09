@@ -1,4 +1,4 @@
-# fake_customer_data_with_errors-Data_Analysis_By_Python-project
+# Fake_Customer_Data_With_Errors-Data_Analysis_By_Python-project
 
 📊 Customer Data Analysis Project Using Python 🐍
 
